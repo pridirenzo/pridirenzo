@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @pridirenzo
 - 👀 I’m interested in computers, english and cats.
-- 🌱 I’m currently studying Programming at Universidad Tecnologica Nacional (UTN-FRRO) ...
+- 🌱 I’m currently studying Coding at Universidad Tecnologica Nacional (UTN-FRRO) ...
 
 
 <!---
